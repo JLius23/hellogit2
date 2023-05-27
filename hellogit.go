@@ -3,6 +3,6 @@ package main
 import "fmt"
 func main (){
 
-	fmt.Printf("hellogit")
-	fmt.printf("que tal pp")
+	fmt.Printfn("se actualiza el texto")
+	fmt.printfn("que tal pp")
 }
