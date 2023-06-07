@@ -3,6 +3,6 @@ package main
 import "fmt"
 func main (){
 
-	fmt.Printfn("se actualiza el texto")
+	fmt.Printfn("hello github")
 	fmt.printfn("que tal pp")
 }
